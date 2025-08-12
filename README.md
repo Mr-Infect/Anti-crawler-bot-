@@ -4,10 +4,6 @@
 
 Protect your website from agentic crawlers and sophisticated bots with a single line of code. AntiBot Shield uses WebAssembly-powered resource exhaustion techniques to make bot operations unprofitable while remaining invisible to human users.
 
-[![npm version](https://img.shields.io/npm/v/antibot-shield.svg)](https://www.npmjs.com/package/antibot-shield)
-[![PyPI version](https://img.shields.io/pypi/v/antibot-shield.svg)](https://pypi.org/project/antibot-shield/)
-[![Downloads](https://img.shields.io/npm/dt/antibot-shield.svg)](https://www.npmjs.com/package/antibot-shield)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## ✨ Features
 
