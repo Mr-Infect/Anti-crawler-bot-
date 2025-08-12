@@ -330,10 +330,6 @@ Core protection engine is open source. Enterprise features available under comme
 - [ ] Custom threat intelligence feeds
 - [ ] Professional services program
 
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=antibot-shield/antibot-shield&type=Date)](https://star-history.com/#antibot-shield/antibot-shield&Date)
-
 ---
 
 <div align="center">
