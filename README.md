@@ -340,6 +340,6 @@ Core protection engine is open source. Enterprise features available under comme
 
 Made with ❤️ by developers who are tired of bots
 
-**⭐ If you find AntiBot Shield useful, please star the repository!**
+**⭐ If you find AntiBot Shield useful, please star the repository and buy me a coffee!**
 
 </div>
