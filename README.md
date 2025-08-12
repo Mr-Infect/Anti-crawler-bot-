@@ -338,8 +338,6 @@ Core protection engine is open source. Enterprise features available under comme
 
 <div align="center">
 
-**[🌐 Website](https://antibot-shield.com) • [📚 Documentation](https://docs.antibot-shield.com) • [💬 Discord](https://discord.gg/antibot-shield) • [🐦 Twitter](https://twitter.com/antibotshield)**
-
 Made with ❤️ by developers who are tired of bots
 
 **⭐ If you find AntiBot Shield useful, please star the repository!**
