@@ -246,19 +246,7 @@ go get github.com/antibot-shield/go
 Install-Package AntiBot.Shield
 ```
 
-### CDN Links
 
-```html
-<!-- Latest version -->
-<script src="https://cdn.antibot-shield.com/v1/antibot.min.js"></script>
-
-<!-- Specific version -->
-<script src="https://cdn.antibot-shield.com/v1.0.0/antibot.min.js"></script>
-
-<!-- Framework-specific -->
-<script src="https://cdn.antibot-shield.com/v1/react.min.js"></script>
-<script src="https://cdn.antibot-shield.com/v1/vue.min.js"></script>
-```
 
 ## 📈 Analytics Dashboard
 
@@ -270,7 +258,6 @@ Monitor bot activity and protection effectiveness in real-time:
 - ⚡ **Performance Monitoring**: Protection overhead and optimization insights
 - 🔔 **Alert System**: Real-time notifications for significant bot activity
 
-[View Live Demo Dashboard →](https://dashboard.antibot-shield.com/demo)
 
 ## 🤝 Contributing
 
@@ -297,34 +284,27 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 Core protection engine is open source. Enterprise features available under commercial license.
 
-## 🆘 Support
-
-- 📚 **Documentation**: [docs.antibot-shield.com](https://docs.antibot-shield.com)
-- 💬 **Community**: [Discord Server](https://discord.gg/antibot-shield)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/antibot-shield/antibot-shield/issues)
-- 📧 **Enterprise**: [enterprise@antibot-shield.com](mailto:enterprise@antibot-shield.com)
-
 ## 🚀 Roadmap
 
-### Q1 2024
+### Q1 2025
 - [x] Core WASM engine
 - [x] JavaScript/TypeScript bindings
 - [x] React/Vue/Angular integration
 - [x] CDN distribution
 
-### Q2 2024
+### Q2 2025
 - [x] Python package (Django/FastAPI)
 - [x] PHP package (Laravel/WordPress)
 - [x] Real-time analytics dashboard
 - [ ] Go and Java bindings
 
-### Q3 2024
+### Q3 2025
 - [ ] Machine learning adaptation engine
 - [ ] Collaborative threat intelligence network
 - [ ] Advanced obfuscation techniques
 - [ ] Enterprise white-label solutions
 
-### Q4 2024
+### Q4 2025
 - [ ] Mobile app protection (React Native/Flutter)
 - [ ] Kubernetes operator
 - [ ] Custom threat intelligence feeds
